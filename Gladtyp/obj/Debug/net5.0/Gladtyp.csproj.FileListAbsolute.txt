@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.exe
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.deps.json
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.runtimeconfig.json
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.dll
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\ref\Gladtyp.dll
+C:\Users\Admin\Documents\Gladtyp\bin\Debug\net5.0\Gladtyp.pdb
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.AssemblyInfo.cs
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.dll
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\ref\Gladtyp.dll
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.pdb
+C:\Users\Admin\Documents\Gladtyp\obj\Debug\net5.0\Gladtyp.genruntimeconfig.cache
